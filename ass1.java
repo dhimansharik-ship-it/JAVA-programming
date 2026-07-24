@@ -1,4 +1,4 @@
-public class ass1 {
+public class Main {
     // Method
     static int square(int number)
     {
