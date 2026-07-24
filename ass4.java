@@ -1,4 +1,4 @@
-public class ass4
+public class WrapperClassSymbi
 {
     public static void main(String[] args)
     {
